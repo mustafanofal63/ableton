@@ -1,0 +1,256 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 0;
+margin: 0;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+
+.heard{
+    width: 97%;
+    padding: 20px;
+    border: 3px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+}
+.alberton{
+    margin-top: 130px;
+width: 80%;
+text-align: center;
+border: 3px solid black;
+}
+
+ 
+
+
+
+.colors{
+    width: 40%;
+
+}
+.colors ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+}
+.colors ul li{
+    display: flex;
+    width: 100%;
+    padding: 0;
+    justify-content: center;
+}
+
+.circle{
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 100%;
+}
+.circle2{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 100%;
+}
+.circle3{
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 100%;
+}
+.circle4{
+    width: 20px;
+    height: 20px;
+    background-color: powderblue;
+    border-radius: 100%;
+}
+.circle5{
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    border-radius: 100%;
+}
+.circle6{
+    width: 20px;
+height: 20px;
+background-color: rgb(0, 0, 0);
+border-radius: 100%;
+}
+.bigimag{
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    border: 3px solid black;
+}
+.bigimag img{
+    box-shadow: 0px 0px 50px 10px rgb(160, 160, 160);
+    width: 80%;
+}
+.heard3{
+    margin-right: 50px;
+    display: flex;
+}
+.heard3 a{
+    float: right;
+color: black;
+    text-decoration: none;
+    padding: 5px;
+
+ 
+
+   
+    font-weight: bold;
+
+
+}
+.table{
+    text-align: center;
+}
+.div4{
+    border: 3px solid black;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+.div3{
+   
+
+    color: white;
+    background-color: black;
+}
+#div3{
+    border: 3px solid black;
+
+
+}
+.div3g{
+    color: white;
+    background-color: gray;
+    border: 3px solid black;
+
+}
+.mustaff{
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+    width: 80%;
+    padding: 30px 0px;
+    gap: 20px;
+
+
+}
+.img10{
+    text-align: center;
+}
+.back{
+    width: 60%;
+    height: 350px;
+    background-color: aqua;
+    position: relative;
+    left: 380px;
+}
+.nn{
+    position: relative;
+    left: 565px;
+    bottom: 256px;
+}
+.dow{
+    position: relative;
+    bottom: 400px;
+    left: 200px;
+}
+.v{
+   width: 30%;
+   height: 500px;
+   
+}
+.ba{
+
+    width: 60%;
+    height: 350px;
+    background-color: aqua;
+    position: relative;
+    
+}
+.mu{
+    width: 70%;
+    height: 600px;
+
+    background-color:red;
+    position: relative;
+    left: 60px;
+}
+.d{position: relative;
+    bottom: 600px;
+    left: 200px;}
+    .bb{
+        position: relative;
+        bottom: 450px;
+        left: 200px;
+    }
+    .mn{
+        position: relative;
+    bottom: 743px;
+    left: 775px;
+    right: 200px;
+
+        
+    }
+    .eee{
+        display: flex;
+        justify-content: center;
+    }
+    .kkk{
+        display: flex;
+        justify-content: center;
+    }
+    .z{
+        display: flex;
+        justify-content: center;
+        
+    }
+    .ppp{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+        background-color: black;
+        height: 250px;
+        color: white
+    }
+    .aa a{
+
+        text-decoration: none;
+        color: white;
+        padding: 5px;
+    }
+    .aaa{
+        color: white;
+        padding: 7px;
+    }
+    .aaa a{
+        color: white;
+        padding: 5px;
+
+    }
+    a{
+        text-decoration: none;
+    }
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.aaa a:hover{
+    text-decoration: underline;
+    color: white;
+
+}
+
